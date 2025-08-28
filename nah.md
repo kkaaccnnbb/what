@@ -1,6 +1,7 @@
 ```luau
 local
 if true then end
+while getgenv()["loadstring"] do break end
 repeat
 while
 wait
