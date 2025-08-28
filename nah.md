@@ -1,6 +1,6 @@
 ```luau
 local
-if
+if true then end
 repeat
 while
 wait
