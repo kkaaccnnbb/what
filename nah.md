@@ -4,6 +4,8 @@ if true then end
 while getgenv()["loadstring"] do break end
 repeat
 while
+request
+require
 wait
 task.wait
 until
